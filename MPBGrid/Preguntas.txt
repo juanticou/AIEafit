@@ -1,0 +1,4 @@
+1. Si todos los obstaculos tienen el mismo peso, pues el enrutamiento se daría por el que minimice la distancia. Se pierde la optimización según recompensas y costos.
+2. Es como si el agente no tuviese prisa por llegar a la meta, este podría coger rutas menos convenientes. 
+3. Se pueden asignar según la posición de tal manera que las posiciones mas cercanas a la meta tengan mayor recommpensa, y las que no, pues menos.
+4. Si dos caminos tienen igual recompensa, se puede preferir cualquiera de los dos. Se puede elegir algun criterio adicional para elegir cual sería el mejor camino, como el camino más corto, o un criterio extra.  kgit 
